@@ -9,6 +9,8 @@
     "test2": "jest -i reto2/challenge2.test.ts",
     "test3": "jest -i reto3/challenge3.test.ts",
     "test4": "jest -1 reto4/challenge4.test.ts",
+    "test5": "jest -i reto5/challenge5.test.ts",
+    "test6": "jest -i reto6/challenge6.test.ts",
     "ts-node": "ts-node"
   },
   "keywords": [],
