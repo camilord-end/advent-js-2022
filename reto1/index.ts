@@ -1,8 +1,7 @@
-export function wrapping(gifts: string[]): string[] {
-  return gifts.map(
-    (gift) =>
-      `${'*'.repeat(gift.length + 2)}\n*${gift}*\n${'*'.repeat(
-        gift.length + 2
-      )}`
-  )
+export function wrapping(gifts: string[]) {
+  return gifts.map((gift) => {
+    let l = '*'.repeat(gift.length + 2)
+    let m = '\n*' + gift + '*\n'
+    return l + m + l
+  })
 }
