@@ -18,6 +18,13 @@
     "test11": "jest -i reto11/challenge11.test.ts",
     "test12": "jest -i reto12/challenge12.test.ts",
     "test13": "jest -i reto13/challenge13.test.ts",
+    "test14": "jest -i reto14/challenge14.test.ts",
+    "test15": "jest -i reto15/challenge15.test.ts",
+    "test16": "jest -i reto16/challenge16.test.ts",
+    "test17": "jest -i reto17/challenge17.test.ts",
+    "test18": "jest -i reto18/challenge18.test.ts",
+    "test19": "jest -i reto19/challenge19.test.ts",
+    "test20": "jest -i reto20/challenge20.test.ts",
     "ts-node": "ts-node"
   },
   "keywords": [],
