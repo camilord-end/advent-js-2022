@@ -21,4 +21,3 @@ export function decorateTree(base: string) {
   }
   return sol
 }
-console.log(decorateTree('B P R P'))

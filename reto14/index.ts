@@ -11,4 +11,3 @@ export function getOptimalPath(path: number[][]) {
   const result: number = bestPath(0, 0)
   return result
 }
-console.log(getOptimalPath([[0], [3, 4], [9, 8, 1]]))
